@@ -1,7 +1,8 @@
 package com.zzb.dao;
 
 public class ss {
+	//jaslkdfjalf
 	public static void main(String[] args) {
-		System.out.println("你好可以运行");
+		System.out.println("脛茫潞脙驴脡脪脭脭脣脨脨");
 	}
 }
